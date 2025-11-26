@@ -27,5 +27,8 @@ var num = 10.585467892;
 console.log(num);
 
 console.log(num.toFixed(2));var text = "hello";
-// let name = prompt("Enter your name: ");
+
 console.log(text);
+
+var isTrue = true;
+console.log(typeof isTrue);
